@@ -1,0 +1,14 @@
+export 'package:santiportafolio/screens/components/constants.dart';
+export 'package:santiportafolio/screens/main_screen.dart';
+export 'package:santiportafolio/screens/components/side_menu.dart';
+export 'package:santiportafolio/screens/components/my_info.dart';
+export 'package:santiportafolio/screens/components/animated_progress_indicator.dart';
+export 'package:santiportafolio/screens/components/animated_linear_progress_indicator.dart';
+export 'package:santiportafolio/screens/components/area_info_text.dart';
+export 'package:santiportafolio/screens/components/skills.dart';
+export 'package:santiportafolio/screens/components/coding.dart';
+export 'package:santiportafolio/screens/components/knowledges.dart';
+export 'package:santiportafolio/screens/components/social_network_links.dart';
+export 'package:santiportafolio/screens/components/home_banner.dart';
+export 'package:santiportafolio/screens/components/project_card.dart';
+export 'package:santiportafolio/screens/components/my_projects.dart';
